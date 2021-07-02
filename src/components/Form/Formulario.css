@@ -1,0 +1,12 @@
+.Form-container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+.Formulario {
+    margin: auto;
+    width: 50%;
+}
